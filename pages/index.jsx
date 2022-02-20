@@ -7,8 +7,12 @@ export default function Home() {
   return (
     <div>
 
+      <Porta selecionada={true}></Porta>
+      <Porta selecionada={false}></Porta>
 
-      <Porta></Porta>
+
+
+
     </div>
   )
 }
